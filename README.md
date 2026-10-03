@@ -3,6 +3,10 @@
 
 A Machine Learning web application that predicts house prices based on different house features.
 
+## 🖥️ Application Preview
+
+![House Price Prediction App](screenshots/app_preview.jpeg)
+
 ## 📌 Project Overview
 
 This project uses Multiple Linear Regression to predict house prices using:
